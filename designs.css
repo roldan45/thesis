@@ -1,0 +1,76 @@
+
+.btn-min {
+    color: #fff;
+    background-color: #fff;
+    border-color: #5f84a2;
+    box-shadow:0 10px 6px -6px #fff;
+}
+
+.btn-min:hover {
+    color: #fff;
+    background-color: #5f84a2;
+    border-color: #5f84a2;
+    box-shadow:0 10px 6px -6px #fff;
+}
+
+.btn-faq {
+    color: #fff;
+    background-color: #194569;
+    border-color: #5f84a2;
+    box-shadow:0 10px 6px -6px #5f84a2;
+}
+
+.btn-faq:hover {
+    color: #fff;
+    background-color: #5f84a2;
+    border-color: #5f84a2;
+    box-shadow:0 10px 6px -6px #5f84a2;
+}
+
+
+.btn-chat    {
+ border-color: #04AA6D;
+  color: green;
+}
+
+.btn-chat:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #194569;
+    border-color: #194569;
+    box-shadow:0 10px 6px -6px #fff;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #315e26;
+    border-color: white;
+    box-shadow:0 10px 6px -6px #777;
+}
+
+.login-card-body, .register-card-body {
+    background: #fff;
+    border-top: 0;
+    color: #fff;
+    padding: 20px;
+    box-shadow:0 10px 6px -6px #777;
+}
+.body {
+  background-image: url('dist/img/dog1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.card-success:not(.card-outline)>.card-header {
+    background-color: #194569;
+}
+.card-dark:not(.card-outline)>.card-header {
+    background-color: #194569;
+}
+.badge-info {
+    color: #fff;
+    background-color: #194569;
+}
